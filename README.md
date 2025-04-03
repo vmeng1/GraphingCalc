@@ -8,10 +8,17 @@
 
 
 - Implemented:
-  - Trig funcitons
+  - Trig Functions
+  - Logarithms
   - Polar coordinates to Cartesian coordinates translation
-  - Zoom in/out based on mouse position (uses G and H key)
-  - Pan left/right/up/down using mouse and arrow key
+  - Zoom in/out based on mouse position
+      - uses G(zoom in) and H(zoom out) key
+  - Pan left/right/up/down
+     - using mouse OR arrow key
+  - Input functions
+      - Catches:
+      - Invalid inputs
+      - Unclosed parenthesis
   
 
 
