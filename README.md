@@ -20,7 +20,7 @@
       - Invalid inputs
       - Unclosed parenthesis
   
-
+check out GraphingCalc.vid.mov file for video demo
 
 
 
