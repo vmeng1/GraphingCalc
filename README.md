@@ -22,7 +22,7 @@
    
 ## Demo Vid
   
-<video src="GraphingCalc.vid.mov" controls></video>
+<video src="GraphingCalc.vid" controls></video>
 
 
 
