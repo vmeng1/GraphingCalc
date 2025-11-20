@@ -22,7 +22,8 @@
    
 ## Demo Vid
   
-<video src="GraphingCalc.vid.mov" controls></video>
+![Demo](GraphingCalculator.gif)
+
 
 
 
