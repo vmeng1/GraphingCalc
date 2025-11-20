@@ -19,6 +19,8 @@
       - Catches:
       - Invalid inputs
       - Unclosed parenthesis
+   
+## Demo Vid
   
 <video src="GraphingCalc.vid.mov" controls></video>
 
